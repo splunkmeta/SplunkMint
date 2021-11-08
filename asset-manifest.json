@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SplunkMint/static/css/main.ad2ef376.chunk.css",
+    "main.js": "/SplunkMint/static/js/main.12d64bd9.chunk.js",
+    "main.js.map": "/SplunkMint/static/js/main.12d64bd9.chunk.js.map",
+    "runtime-main.js": "/SplunkMint/static/js/runtime-main.7ad5316b.js",
+    "runtime-main.js.map": "/SplunkMint/static/js/runtime-main.7ad5316b.js.map",
+    "static/js/2.15702248.chunk.js": "/SplunkMint/static/js/2.15702248.chunk.js",
+    "static/js/2.15702248.chunk.js.map": "/SplunkMint/static/js/2.15702248.chunk.js.map",
+    "static/js/3.ea87bc33.chunk.js": "/SplunkMint/static/js/3.ea87bc33.chunk.js",
+    "static/js/3.ea87bc33.chunk.js.map": "/SplunkMint/static/js/3.ea87bc33.chunk.js.map",
+    "index.html": "/SplunkMint/index.html",
+    "static/css/main.ad2ef376.chunk.css.map": "/SplunkMint/static/css/main.ad2ef376.chunk.css.map",
+    "static/js/2.15702248.chunk.js.LICENSE.txt": "/SplunkMint/static/js/2.15702248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad5316b.js",
+    "static/js/2.15702248.chunk.js",
+    "static/css/main.ad2ef376.chunk.css",
+    "static/js/main.12d64bd9.chunk.js"
+  ]
+}
